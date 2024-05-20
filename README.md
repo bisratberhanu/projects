@@ -51,4 +51,4 @@ Contributions are highly appreciated! If you'd like to contribute to this projec
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
