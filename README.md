@@ -7,9 +7,9 @@ This is a Java desktop reminder application that helps you stay organized and ma
 - Easy-to-use interface
 - Set reminders for important tasks
 - Receive notifications for upcoming reminders
-- Organize reminders by categories
+- edit reminders
 - Mark reminders as completed
-- View a list of all reminders
+- delete reminders
 
 ## Getting Started
 
